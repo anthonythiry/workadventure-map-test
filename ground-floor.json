@@ -1529,8 +1529,18 @@
          "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":9,
          "firstgid":5250,
-         "source":"afelio-logo.tsx"
+         "image":"afelio-logo.png",
+         "imageheight":96,
+         "imagewidth":308,
+         "margin":0,
+         "name":"afelio-logo",
+         "spacing":0,
+         "tilecount":27,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#000000"
         }],
  "tilewidth":32,
  "type":"map",
