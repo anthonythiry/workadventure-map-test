@@ -73,7 +73,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Afelio - Guillemins"
+                 "value":"afelio-guillemins"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Afelio - Peron"
+                 "value":"afelio-peron"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Afelio - Shill ground"
+                 "value":"afelio-chill-ground"
                 }, 
                 {
                  "name":"jitsiTrigger",
