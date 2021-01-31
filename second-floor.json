@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/anthonythiry.github.io\/workadventure-map-test\/ground-floor.json"
+                 "value":"\/_\/global\/anthonythiry.github.io\/workadventure-map-test\/ground-floor.json#start-from-second-floor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/anthonythiry.github.io\/workadventure-map-test\/first-floor.json"
+                 "value":"\/_\/global\/anthonythiry.github.io\/workadventure-map-test\/first-floor.json#start-from-second-floor"
                 }],
          "type":"tilelayer",
          "visible":true,
